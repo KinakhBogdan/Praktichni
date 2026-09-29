@@ -1,4 +1,3 @@
-[laba2.py](https://github.com/user-attachments/files/32818171/laba2.py)
 users = [
     {
         "login": "Bohdan",
